@@ -60,11 +60,11 @@ The model explains 97.03% of the variance in cinema attendance.
 
 Key influencing variables:
 
-X5: Population of pre-working age in urban areas,
+* X5: Population of pre-working age in urban areas,
 
-X12: Number of mass entertainment events,
+* X12: Number of mass entertainment events,
 
-X13: Cultural spending per capita.
+* X13: Cultural spending per capita.
 
 The model meets the assumptions of classical linear regression.
 
