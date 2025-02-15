@@ -8,7 +8,7 @@ The goal was to choose a topic for analysis, find appropriate datasets, select r
 
 ## Data Source
 
-The dataset was obtained from the [Local Data Bank] (bdl.stat.gov.pl) and includes 17 features describing cinema attendance in Poland from 2013 to 2023.
+The dataset was obtained from the [Local Data Bank](bdl.stat.gov.pl) and includes 17 features describing cinema attendance in Poland from 2013 to 2023.
 
 ## Analyzed Variables
 
