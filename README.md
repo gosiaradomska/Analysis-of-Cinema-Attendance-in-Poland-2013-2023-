@@ -1,4 +1,4 @@
-# Analysis-of-Cinema-Attendance-in-Poland-2013-2023
+# Analysis of Cinema Attendance in Poland 2013-2023
 
 ## Project Description
 
