@@ -32,27 +32,27 @@ Independent Variables (X):
 
 * Variable selection for the model:
 
-** Correlation matrix,
+  * Correlation matrix,
 
-** Hellwig’s method,
+  * Hellwig’s method,
 
-** Linear regression analysis.
+  * Linear regression analysis.
 
 * Model parameter estimation using the least squares method.
 
 * Model verification:
 
-** Fit evaluation (R², F-statistic, p-values),
+  * Fit evaluation (R², F-statistic, p-values),
 
-** Normality tests for residuals,
+  * Normality tests for residuals,
 
-** Autocorrelation tests (Durbin-Watson, Breusch-Godfrey),
+  * Autocorrelation tests (Durbin-Watson, Breusch-Godfrey),
 
-** Heteroscedasticity tests (Breusch-Pagan, White’s test),
+  * Heteroscedasticity tests (Breusch-Pagan, White’s test),
 
-** Series test to check randomness of residuals,
+  * Series test to check randomness of residuals,
 
-** Symmetry test to verify distribution properties.
+  * Symmetry test to verify distribution properties.
 
 ## Results and Conclusions
 
