@@ -6,6 +6,10 @@ This project was carried out as part of the â€œData Source Integration Modelingâ
 
 The goal was to choose a topic for analysis, find appropriate datasets, select relevant variables, build an econometric model, and verify its accuracy.
 
+### Project Files
+* **[PDF Report](Radomska_Rapa_Projekt_PLMZD.pdf):** A detailed report documenting the entire project process, including analysis and conclusions.
+* **[XLSX File](Radomska_Rapa_Projekt_PLMZD.xlsx):** Contains the dataset and calculations performed during the analysis.
+
 ## Data Source
 
 The dataset was obtained from the [Local Data Bank](https://bdl.stat.gov.pl) and includes 17 features describing cinema attendance in Poland from 2013 to 2023.
